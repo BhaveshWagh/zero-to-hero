@@ -1,1 +1,5 @@
-console.log("Welcome to Antigravity 😊")
+function helloAntigravity() {
+  console.log("hello antigravity");
+}
+
+helloAntigravity();
